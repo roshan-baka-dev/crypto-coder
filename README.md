@@ -1,2 +1,2 @@
 # crypto-coder
-crypto-portfolio app for internship
+A Crypto-Portfolio App 
